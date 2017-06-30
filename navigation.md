@@ -1,7 +1,5 @@
 # CPSC 481 - 2017S
 
-[gimmick:theme](flatly)
-
 [Home](index.md)
 
 [About](about.md)
@@ -14,4 +12,8 @@
   * [P3](p3.md)
   * [P4](p4.md)
   
-[gimmick:themechooser](Choose theme)
+gimmick:theme (inverse: false)
+
+[gimmick:ThemeChooser](Change theme)
+
+
