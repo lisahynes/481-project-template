@@ -1,5 +1,7 @@
 # CPSC 481 - 2017S
 
+[gimmick:theme](flatly)
+
 [Home](index.md)
 
 [About](about.md)
