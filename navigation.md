@@ -4,7 +4,10 @@
 
 [About](about.md)
 
-[Project Components]()
+[CPSC 449 Project]()
+  * [A1](CPSC449.md)
+
+[CPSC 481 Project]()
 
   * [P0](p0.md)
   * [P1](p1.md)
