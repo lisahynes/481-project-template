@@ -1,4 +1,4 @@
- - CPSC 481 - Tutorial 02 - Group 6
+ - CPSC 481 - Tutorial 02 - Group 6!
 
 ## Wild for Alberta Wildflowers - A Field Guide App
 
