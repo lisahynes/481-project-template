@@ -12,7 +12,7 @@
   * [P3](p3.md)
   * [P4](p4.md)
   
-gimmick:theme (inverse: false)
+gimmick:theme (inverse: true)
 
 [gimmick:ThemeChooser](Change theme)
 
