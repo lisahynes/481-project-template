@@ -1,10 +1,13 @@
 
 <p class="text-primary">Lisa Hynes - 3rd Year Computer Science Undergraduate Student in the concentration of Human Computer Interaction</p>
 
-Test test test test
+Test test 
 
-<div class="progress">
-  <div class="bar" style="width: 100%;"></div>
-</div>
+ <h3 id="progress-animated">Animated</h3>
+            <div class="bs-component">
+              <div class="progress progress-striped active">
+                <div class="progress-bar" style="width: 45%"></div>
+              </div>
+            </div>
 
 
