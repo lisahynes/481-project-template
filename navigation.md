@@ -1,6 +1,6 @@
-# My Portfolio!
+# My Portfolio
 
-[gimmick:theme (inverse: true)](journal)
+[gimmick:theme](journal)
 
 [Home](index.md)
 
