@@ -1,6 +1,6 @@
 # My Portfolio!
 
-[gimmick:theme](cosmo)
+[gimmick:theme (inverse: true)](journal)
 
 [Home](index.md)
 
