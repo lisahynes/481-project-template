@@ -1,4 +1,4 @@
-# My Portfolio(home.md)
+# My Portfolio
 
 [Home](home.md)
 
