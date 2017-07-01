@@ -1,4 +1,4 @@
-
+[gimmick:theme](slate)
 <p class="text-primary">Lisa Hynes - 3rd Year Computer Science Undergraduate Student in the concentration of Human Computer Interaction</p>
 
 <h1 style="color:#98DBC6;">This is the header you want to change Munch</h1>
