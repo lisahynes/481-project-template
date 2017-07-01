@@ -1,4 +1,4 @@
-
+<h2 style="color:#98DBC6;">This is the header you want to change Munch</h2>
 <p style="color:#F18D9E">Lisa Hynes - 3rd Year Computer Science Undergraduate Student in the concentration of Human Computer Interaction</p>
 
 <h2 style="color:#98DBC6;">This is the header you want to change Munch</h2>
