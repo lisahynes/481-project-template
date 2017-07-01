@@ -1,5 +1,7 @@
 # My Portfolio!
 
+[gimmick:theme](slate)
+
 [Home](index.md)
 
 [CPSC 481 Project]()
@@ -15,7 +17,7 @@
 
   * [A1 - Mondrian Art Assignment](CPSC449.md)
   
-[gimmick:theme](slate)
+
 
 
 
