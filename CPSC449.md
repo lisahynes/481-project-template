@@ -7,5 +7,3 @@ In my CPSC 449 class our first assignment was to create Mondrian Art! Below are 
 ![](https://lisahynes.github.io/Portfolio/Mondrian02.jpg)
 
 ![](https://lisahynes.github.io/Portfolio/Mondrian03.jpg)
-
-## My new Site
