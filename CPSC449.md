@@ -1,3 +1,4 @@
+[gimmick:theme](slate)
 ## CPSC 449 Mondrian Art Assignment
 
 In my CPSC 449 class our first assignment was to create Mondrian Art! Below are a few samples runs of my code and the output it produced.
