@@ -1,11 +1,12 @@
-# CPSC 481 - 2017S
+# My Portfolio
 
-[Home](index.md)
+[Home](home.md)
 
 [About](about.md)
 
 [CPSC 481 Project]()
-
+  
+  * [Home](index.md)
   * [P0 - Team Contract](p0.md)
   * [P1 - User Research](p1.md)
   * [P2 - Ideation and Lo-Fi Prototypes](p2.md)
