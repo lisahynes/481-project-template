@@ -16,7 +16,7 @@
 
   * [A1 - Mondrian Art Assignment](CPSC449.md)
   
-[gimmick:theme](slate)
+[gimmick:theme](solar)
 
 
 
