@@ -1,6 +1,6 @@
 # My Portfolio!
 
-[gimmick:theme](slate)
+[gimmick:theme](darkly)
 
 [Home](index.md)
 
