@@ -1,6 +1,6 @@
 # My Portfolio
 
-
+[gimmick:theme](yeti)
 
 [Home](index.md)
 
