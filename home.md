@@ -1,5 +1,5 @@
 
-<span class="label label-info">Info</span>
+<span class="label label-info">Welcome to my portfolio!</span>
 
 <div class="progress progress-striped">
   <div class="progress-bar progress-bar-info" style="width: 100%"></div>
