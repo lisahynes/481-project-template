@@ -1,10 +1,7 @@
-<h2 style="color:#5BC8AC;">This is the header you want to change Munch</h2>
-<p style="color:#F18D9E">Lisa Hynes - 3rd Year Computer Science Undergraduate Student in the concentration of Human Computer Interaction</p>
+<h1 style="color:#F18D9E; text-align:right;">Lisa Hynes</h1>
 
-<h2 style="color:#F18D9E;">This is the header you want to change Munch</h2>
-New
 
-<p style="color:#5BC8AC">Lisa Hynes - 3rd Year Computer Science Undergraduate Student in the concentration of Human Computer Interaction</p>
+<p style="color:#5BC8AC; text-align:right;">3rd Year Computer Science Undergraduate Student in the Concentration of Human Computer Interaction</p>
 
 These are new
 Aquamarine: #98DBC6
