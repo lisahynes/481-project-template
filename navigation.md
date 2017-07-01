@@ -2,8 +2,6 @@
 
 [Home](home.md)
 
-[About](about.md)
-
 [CPSC 481 Project]()
   
   * [Home](index.md)
