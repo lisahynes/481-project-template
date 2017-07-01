@@ -1,4 +1,6 @@
 
+<span class="label label-info">Info</span>
+
 <div class="progress progress-striped">
   <div class="progress-bar progress-bar-info" style="width: 20%"></div>
 </div>
