@@ -1,7 +1,7 @@
 
 ## CPSC 449 Mondrian Art Assignment
 
-In my CPSC 449 class our first assignment was to create Mondrian Art! Below are a few samples runs of my code and the output it produced.
+Below are a few samples runs of my code and the output it produced. The task was to make a recursive function that created random mondrian art by cutting the image into radom sections and filling in each space with a random colour. I split my image down the middle to get different shades of green on the right and red on the left and I added in random line widths to add variation to my project.
 
 ![](https://lisahynes.github.io/Portfolio/Mondrian01.jpg)
 
