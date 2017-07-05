@@ -12,7 +12,7 @@
 
 ## Project Idea
 
-![](https://kowther.github.io/FieldGuide-481/wildflower_small.png)
+![](https://lisahynes.github.io/Portfolio/wildflower_small.png)
 
 A guide to identify, learn and share Alberta’s 100+ species of wildflowers. Enjoy all the familiarities of a traditional paper field guide, with more images and species information. Foster a community via the app, where users can share sightings, images and connect with each other.
 
