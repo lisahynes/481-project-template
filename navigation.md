@@ -13,7 +13,7 @@
   * [P3 - Hi-Fi Prototypes and Heuristic Evaluations](p3.md)
   * [P4 - Final Report and Presentation](p4.md)
   
-[CPSC 449 Project]()
+[CPSC 449 Assignment]()
 
   * [A1 - Mondrian Art Assignment](CPSC449.md)
   
